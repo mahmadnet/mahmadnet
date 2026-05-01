@@ -16,4 +16,4 @@ AI workflows | UX systems | founder tools | automation | operations
 
 ## Links
 
-[mahmad.net](https://www.mahmad.net/) | [email](mailto:mail@mahmad.net) | [linkedin](https://www.linkedin.com/in/mahmadnet/) | [x](https://x.com/mahmadnet) | [instagram](https://www.instagram.com/mahmadnet_/)
+[mahmad.net](https://www.mahmad.net/) | [email](mailto:mail@mahmad.net) | [linkedin](https://www.linkedin.com/in/mahmadnet/) | [x (twitter)](https://x.com/mahmadnet) | [instagram](https://www.instagram.com/mahmadnet_/)
