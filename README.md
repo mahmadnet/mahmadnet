@@ -1,16 +1,19 @@
-### Hi there
+# Hi, I'm Ahmad
 
-<!--
-**mahmadnet/mahmadnet** is a special repository because its `README.md` appears on your GitHub profile.
+Product builder working on useful software. `@mahmadnet`
 
-Here are some ideas to get you started:
+## Build Areas
 
-- I'm currently working on ...
-- I'm currently learning ...
-- I'm looking to collaborate on ...
-- I'm looking for help with ...
-- Ask me about ...
-- How to reach me: ...
-- Pronouns: ...
-- Fun fact: ...
--->
+MVPs | AI tools | internal tools | product systems | web apps
+
+## Interests
+
+AI workflows | UX systems | founder tools | automation | operations
+
+## Work
+
+[mahmad.net/work](https://www.mahmad.net/work/)
+
+## Links
+
+[mahmad.net](https://www.mahmad.net/) | [email](mailto:mail@mahmad.net) | [linkedin](https://www.linkedin.com/in/mahmadnet/) | [x](https://x.com/mahmadnet) | [instagram](https://www.instagram.com/mahmadnet_/)
